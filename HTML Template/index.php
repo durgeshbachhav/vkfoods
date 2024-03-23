@@ -1,4 +1,4 @@
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 
       <!--Form Back Drop-->
       <div class="form-back-drop"></div>
@@ -733,4 +733,4 @@
       <!-- Feedback Section End -->
 
       <!-- footer -->
-      <?php include 'includes/footer.php'; ?>
+      <?php include 'footer.php'; ?>

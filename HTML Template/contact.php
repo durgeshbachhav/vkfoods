@@ -1,4 +1,4 @@
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 
        
        
@@ -135,4 +135,4 @@
         </section>
         <!-- Contact From End -->
         
-        <?php include 'includes/footer.php'; ?>
+        <?php include 'footer.php'; ?>

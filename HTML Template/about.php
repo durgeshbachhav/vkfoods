@@ -1,5 +1,5 @@
 <!-- header -->
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 
 <!-- Page Banner Start -->
 <section
@@ -710,4 +710,4 @@
 <!-- Client Logo Section End -->
 
 <!-- Footer Area Start -->
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>
